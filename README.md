@@ -59,7 +59,7 @@
 <h3 align="center">Let's Connect</h3>
 <div align="center">
   <p>
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alexandre-sa-jesus/">linkedin.com/in/alexandre-sa-jesus</a><br>
-    <strong>Email:</strong> <a href="mailto:alexandresajesus30@gmail.com">alexandresajesus30@gmail.com</a>
+    <strong>Email:</strong> <a href="mailto:alexandresajesus30@gmail.com">alexandresajesus30@gmail.com</a><br>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alexandre-sa-jesus/">linkedin.com/in/alexandre-sa-jesus</a>
   </p>
 </div>
