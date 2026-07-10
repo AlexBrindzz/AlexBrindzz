@@ -5,6 +5,7 @@
 <p align="center">
   <a href="mailto:alexandresajesus30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/alexandre-sa-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://komarev.com/ghpvc/?username=AlexBrindzz&style=for-the-badge&abbreviated=true&color=blueviolet" alt="Profile Views" />
 </p>
 
 <hr>
