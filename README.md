@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexandre Jesus </h1>
+<h1 align="center">Hi, I'm Alexandre Jesus.</h1>
 <h3 align="center">Master's student in Electronic & Computer Engineering</h3>
 <h4 align="center">Computer Vision | Embedded Systems | Robotics | Automation</h4>
 
@@ -27,33 +27,59 @@
     <kbd>Programming Languages</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" title="LaTeX" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" />
   </kbd>
   
   <kbd>
-    <kbd>Frameworks</kbd>
+    <kbd>Libraries & Frameworks</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" title="MATLAB & Simulink" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="QT Designer" />
+  </kbd>
+
+  <kbd>
+    <kbd>Tools & Platforms</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" title="MATLAB & Simulink" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub Desktop" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" />
+    <img width="30px" src="https://cdn.simpleicons.org/obsstudio/white" title="OBS Studio" />
   </kbd>
 </div>
 
 <hr>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">Streak Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexBrindzz&include_all_commits=true&v=4" alt="Estatísticas do AlexBrindzz" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexBrindzz&v=4" alt="Top Linguagens do AlexBrindzz" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AlexBrindzz&theme=black-ice&border_radius=0&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
+
+<hr>
+
+<h3 align="center">GitHub Profile Stats</h3>
+
+<div align="center">
+<br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlexBrindzz's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AlexBrindzz&custom_title=Alexandre%20Jesus's%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&title_color=ffffff&text_color=ffffff&icon_color=00e7ff&border_color=e4e2e2&border_radius=0" height="165"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AlexBrindzz's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AlexBrindzz&langs_count=8&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff&border_color=e4e2e2&border_radius=0" height="165"/></a>
+</div>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <hr>
 
