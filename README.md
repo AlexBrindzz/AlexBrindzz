@@ -6,6 +6,7 @@
   <a href="mailto:alexandresajesus30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/alexandre-sa-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=AlexBrindzz&style=for-the-badge&abbreviated=true&color=blueviolet" alt="Profile Views" />
+  <a href="https://github.com/AlexBrindzz?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AlexBrindzz?color=ff69b4&labelColor=db2777&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 <hr>
